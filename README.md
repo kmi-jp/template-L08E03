@@ -9,3 +9,10 @@ Pomoci balíčku `data` z úkolu L08E03 napište jednoduchý script (`sum_points
 Soubor obsahuje vždy název úkolu a součet získaných bodů (např. tedy úkol L01E01 splnilo 39 studentů). **Soubor do repozitáře neposílejte!**
 
 Při řešení použíjte v maximální míře funkcionalitu balíčku `data` a `json`.
+
+## Lokální testování
+Funkčnost řešení ověříte následujícím příkazem:
+
+```bash
+pytest tests.py
+```
